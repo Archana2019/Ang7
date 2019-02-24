@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Ang7';
+  subTitle = 'Dashboard comes here !!!';
 }
