@@ -62,7 +62,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "Ang7:build"
+            "browserTarget": "Ang7:build",
+            "disableHostCheck": true
           },
           "configurations": {
             "production": {
